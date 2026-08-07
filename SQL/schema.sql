@@ -49,6 +49,7 @@ CREATE TABLE payments (
     PRIMARY KEY (order_id, payment_sequential)
 );
 
+
 CREATE TABLE reviews (
     review_id             VARCHAR(50),
     order_id               VARCHAR(50) REFERENCES orders(order_id),
