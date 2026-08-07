@@ -119,7 +119,7 @@ ecommerce-capstone-analysis/
 │   ├── schema.sql
 │   └── analysis_queries.sql
 ├── images/
-│   └── dashboard_screenshot.png
+│   └── interactive_dashboard_screenshot.png
 └── Data/
     └── (sample rows only — full dataset via Kaggle link above)
 ```
