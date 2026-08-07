@@ -7,6 +7,7 @@
 
 
 
+
 🔗 **[Live Story Walkthrough](#)** *(https://public.tableau.com/app/profile/rakes.dey/viz/OlistE-CommerceAnalysisLateDeliveryCutsCustomerRatingsFrom4_2to1_7/Story1)*
 
 ---
@@ -59,6 +60,7 @@ Wrote a full analysis query set covering:
 - CTE-based repeat-purchase rate analysis (corrected for the `customer_id` scoping issue above)
 - Seller-level late-delivery rate ranking
 - Payment method distribution
+
 
 See [`SQL/analysis_queries.sql`](SQL/analysis_queries.sql) for the full query set, including an inline note on the repeat-buyer query correction.
 
