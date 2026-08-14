@@ -113,7 +113,7 @@ Prioritize logistics and carrier reliability to reduce late deliveries — this 
 ```
 ecommerce-capstone-analysis/
 ├── README.md
-├── Jupyter Notebook/
+├── Notebooks/
 │   └── data_cleaning_and_export.ipynb
 ├── SQL/
 │   ├── schema.sql
